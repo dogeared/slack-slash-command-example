@@ -22,6 +22,8 @@ java -jar slack-slash-command-example-0.0.1-SNAPSHOT.jar
 
 The follow examples use [HTTPie](https://httpie.org)
 
+In each case, you should get back the same parameters as a JSON object.
+
 ### Automatic HttpMessageConverter approach
 
 ```
